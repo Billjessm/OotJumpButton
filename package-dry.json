@@ -1,0 +1,13 @@
+{
+  "name": "OotJumpButton",
+  "version": "1.0.0",
+  "description": "Press A to jump.",
+  "main": "OotJumpButton.js",
+  "author": "SpiceyWolf",
+  "credits": "",
+  "license": "GPL3",
+  "core": "OcarinaofTime",
+  "dry": {
+    "extends": "./ModLoader64/package-dry.json"
+  }
+}
